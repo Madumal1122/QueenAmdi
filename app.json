@@ -1,6 +1,6 @@
 {
-    "name": "Queen Amdi 3.6.2v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. 💃🏻❤️",
+    "name": "Queen shadow 3.6.2v",
+    "description": "Queen shadow is a chat bot for WhatsApp. 💃🏻❤️",
     "keywords": [
         "Queen Amdi",
         "WhatsApp",
@@ -14,7 +14,7 @@
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
-        "AMDI_SESSION": {
+        "BS_SESSION": {
             "description": "Paste the session code you received after scanning the QR from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code",
             "required": true
         },
@@ -80,7 +80,7 @@
         "CAP": {
             "description": "Caption of media files.",
             "required": true,
-            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Qᵘᵉᵉⁿ ᴬᵐᵈᶦ₂₀₂₂"
+            "value": "made by bs bot"
         },
         "DEMOTE_MESSAGE": {
             "description": "The message that appears when typing the '.demote' command. If you do not want to change it, keep 'default'.",
