@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
+  <h1>👸💎 QUEEN SHADOW BOT 💎👸</h1>
 </div>
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
     <br>
-        <a href="https://chat.whatsapp.com/FufFv6v1M288le5TopCNMQ">Whatsapp Group</a> |
+        <a href="">Whatsapp Group</a> |
         <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
     <br>
 </p>
@@ -19,22 +19,22 @@
 
 ----
 <div align="center">
-	<h2>Queen Amdi v3 whatsapp bot (Old bot without buttons) :</h1>
+	<h2>Queen shadow v3 whatsapp bot (Old bot without buttons) :</h1>
 	
 ### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
 
-### Deploy OLD v3 Queen Amdi Bot
+### Deploy OLD v3 Queen shadow Bot
 [![Deploy]https://heroku.com/deploy?template=https://github.com/Madumal1122/QueenShadow
 </div>
 
 ----
 
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/Madumal1122/QueenShadow">
     <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/Madumal1122/QueenShadow">
     <img src="https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat-square&logo=github&label=Image Size">
     
   </a>
@@ -42,7 +42,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/Madumal1122/QueenShadow">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/Madumal1122/QueenShadow">
     <img src="https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
@@ -74,7 +74,7 @@
   </a>
   </p>
  <p align="center">
-  <a href="https://wa.me/94757405652">
+  <a href="https://wa.me/94701415149">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
 
   </a>
