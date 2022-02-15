@@ -14,7 +14,7 @@
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
-        "BS_SESSION": {
+        "SHADOW_SESSION": {
             "description": "Paste the session code you received after scanning the QR from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code",
             "required": true
         },
@@ -38,7 +38,7 @@
             "required": true,
             "value": "default"
         },
-        "AMDI_CHAT": {
+        "SHADOW_CHAT": {
             "description": "Full Artificial intelligence(AI) based chat bot feature. Type 'true' to enable and type 'false' to disable.",
             "required": true,
             "value": "false"
@@ -142,7 +142,7 @@
         "PANEL_EMOJI": {
             "description": "You can change panel emojis. (Make sure to split emojis with / )",
             "required": true,
-            "value": "📘/📖"
+            "value": "😈/💔"
         },
         "PROMOTE_MESSAGE": {
             "description": "The message that appears when typing the '.promote' command. If you do not want to change it, keep 'default'.",
